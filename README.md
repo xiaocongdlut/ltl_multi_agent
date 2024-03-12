@@ -1,3 +1,5 @@
+# 加入了 https://github.com/ethz-asl/rotors_simulator.git 无人机仿真，换了城市地图
+
 # Reactive Task Allocation and Planning for Quadrupedal and Wheeled Robot Teaming
 ## Overview
 This repo contains all the packages for multi-agent task allocation and planning based on Linear Temporal Logic (LTL). 
